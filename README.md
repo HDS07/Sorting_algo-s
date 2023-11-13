@@ -1,1 +1,1 @@
-# Sorting_algo-s
+all  the basic sorting in this folder
