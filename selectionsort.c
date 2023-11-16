@@ -1,3 +1,5 @@
+/*Author- Harshdeep 
+Date- 16/11/2023*/
 #include<stdio.h>
 
 void swap(int* x,int*y){
