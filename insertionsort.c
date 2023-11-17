@@ -1,3 +1,5 @@
+/*Author- Harshdeep
+Date- 17/11/2023*/
 #include<stdio.h>
 void array(int* arr, int n){
     for(int i=0;i<=n-1;i++){
@@ -19,7 +21,9 @@ void sort(int* arr,int n){
 
 }
 int main(){
-    int n=6;
+    int n;
+    printf("Enter the no. of element: ");
+    scanf("%d",&n);
     int arr[n];
     printf("Enter the element in array: ");
     for(int i=0;i<n;i++){
